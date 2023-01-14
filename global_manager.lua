@@ -1,1 +1,2 @@
-local test = "Test"
+local test
+test = "Test"
