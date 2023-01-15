@@ -1,6 +1,10 @@
 {
-    "object_manager": {
-        "version": [1,0],
+    "Class1": {
+        "version": 0,
+        "url": ""
+    },
+    "Class2": {
+        "version": 0,
         "url": ""
     }
 }
