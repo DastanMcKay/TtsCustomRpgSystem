@@ -1,0 +1,12 @@
+{
+    "name" : "CustomRpgSystem",
+    "classes": [
+        {
+            "name": "TestClass",
+            "version": 1,
+            "scriptUrl": "url of the script",
+            "xmlUrl": "",
+            "assets": []
+        }
+    ]
+}
