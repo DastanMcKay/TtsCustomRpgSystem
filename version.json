@@ -3,8 +3,8 @@
     "classes": [
         {
             "name": "TestClass",
-            "version": 1,
-            "scriptUrl": "url of the script",
+            "version": 1.0,
+            "scriptUrl": "https://raw.githubusercontent.com/DastanMcKay/TtsCustomRpgSystem/cl-test/test_class.lua",
             "xmlUrl": "",
             "assets": []
         }
